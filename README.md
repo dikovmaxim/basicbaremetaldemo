@@ -1,6 +1,8 @@
 # Bare metal demo
 Basic demo written on i386 32bit AT&T assembler and bare metal C
 
+![preview](https://github.com/dikovmaxim/basicbaremetaldemo/blob/main/image.png)
+
 Install dependencies (Debian-like distros)
 ```bash
 apt install binutils gcc qemu qemu-kvm
